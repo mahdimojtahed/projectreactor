@@ -1,4 +1,4 @@
-package com.dotin.projectreactor.funtional_imperative;
+package com.dotin.projectreactor.dotin_class.funtional_imperative;
 
 import java.util.List;
 import java.util.stream.Collectors;

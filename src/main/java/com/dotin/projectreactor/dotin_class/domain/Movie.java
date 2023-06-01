@@ -1,4 +1,4 @@
-package com.dotin.projectreactor.domain;
+package com.dotin.projectreactor.dotin_class.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

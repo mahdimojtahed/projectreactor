@@ -1,10 +1,10 @@
-package com.dotin.projectreactor.service;
+package com.dotin.projectreactor.dotin_class.service;
 
-import com.dotin.projectreactor.domain.Movie;
-import com.dotin.projectreactor.domain.Review;
-import com.dotin.projectreactor.exception.MovieException;
-import com.dotin.projectreactor.exception.NetworkException;
-import com.dotin.projectreactor.exception.ServiceException;
+import com.dotin.projectreactor.dotin_class.domain.Movie;
+import com.dotin.projectreactor.dotin_class.domain.Review;
+import com.dotin.projectreactor.dotin_class.exception.MovieException;
+import com.dotin.projectreactor.dotin_class.exception.NetworkException;
+import com.dotin.projectreactor.dotin_class.exception.ServiceException;
 import lombok.extern.slf4j.Slf4j;
 import reactor.core.Exceptions;
 import reactor.core.publisher.Flux;

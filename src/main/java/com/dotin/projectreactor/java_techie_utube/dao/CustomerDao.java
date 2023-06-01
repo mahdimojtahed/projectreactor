@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-import static com.dotin.projectreactor.util.CommonUtil.delay;
+import static com.dotin.projectreactor.dotin_class.util.CommonUtil.delay;
 
 @Component
 public class CustomerDao {

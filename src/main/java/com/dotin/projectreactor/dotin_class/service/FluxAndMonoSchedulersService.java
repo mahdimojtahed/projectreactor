@@ -1,4 +1,4 @@
-package com.dotin.projectreactor.service;
+package com.dotin.projectreactor.dotin_class.service;
 
 import lombok.extern.slf4j.Slf4j;
 import reactor.core.publisher.Flux;
@@ -6,7 +6,7 @@ import reactor.core.scheduler.Schedulers;
 
 import java.util.List;
 
-import static com.dotin.projectreactor.util.CommonUtil.delay;
+import static com.dotin.projectreactor.dotin_class.util.CommonUtil.delay;
 
 @Slf4j
 public class FluxAndMonoSchedulersService {

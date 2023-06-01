@@ -1,6 +1,6 @@
-package com.dotin.projectreactor.service;
+package com.dotin.projectreactor.dotin_class.service;
 
-import com.dotin.projectreactor.domain.Review;
+import com.dotin.projectreactor.dotin_class.domain.Review;
 import org.springframework.web.reactive.function.client.WebClient;
 import org.springframework.web.util.UriComponentsBuilder;
 import reactor.core.publisher.Flux;

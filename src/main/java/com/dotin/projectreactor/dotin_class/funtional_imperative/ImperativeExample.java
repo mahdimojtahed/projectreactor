@@ -1,9 +1,9 @@
-package com.dotin.projectreactor.funtional_imperative;
+package com.dotin.projectreactor.dotin_class.funtional_imperative;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class ImperativeExample {
+public class  ImperativeExample {
 
     public static void main(String[] args) {
         var namesList = List.of("alex","ben","chloe", "adam","adam");

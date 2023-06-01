@@ -1,4 +1,4 @@
-package com.dotin.projectreactor.exception;
+package com.dotin.projectreactor.dotin_class.exception;
 
 public class ReactorException extends Throwable {
     private Throwable exception;

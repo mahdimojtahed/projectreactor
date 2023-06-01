@@ -1,4 +1,4 @@
-package com.dotin.projectreactor.util;
+package com.dotin.projectreactor.dotin_class.util;
 
 public class CommonUtil {
     public static void delay(int ms) {

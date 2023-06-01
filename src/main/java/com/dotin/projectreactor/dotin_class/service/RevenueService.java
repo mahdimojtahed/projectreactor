@@ -1,8 +1,8 @@
-package com.dotin.projectreactor.service;
+package com.dotin.projectreactor.dotin_class.service;
 
-import com.dotin.projectreactor.domain.Revenue;
+import com.dotin.projectreactor.dotin_class.domain.Revenue;
 
-import static com.dotin.projectreactor.util.CommonUtil.delay;
+import static com.dotin.projectreactor.dotin_class.util.CommonUtil.delay;
 
 public class RevenueService {
     public Revenue getRevenue(Long movieID) {

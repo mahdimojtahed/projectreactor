@@ -1,6 +1,6 @@
-package com.dotin.projectreactor.service;
+package com.dotin.projectreactor.dotin_class.service;
 
-import com.dotin.projectreactor.domain.MovieInfo;
+import com.dotin.projectreactor.dotin_class.domain.MovieInfo;
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
@@ -8,7 +8,7 @@ import reactor.core.publisher.Mono;
 import java.time.LocalDate;
 import java.util.List;
 
-import static com.dotin.projectreactor.util.CommonUtil.delay;
+import static com.dotin.projectreactor.dotin_class.util.CommonUtil.delay;
 
 public class MovieInfoService {
     private WebClient webClient;

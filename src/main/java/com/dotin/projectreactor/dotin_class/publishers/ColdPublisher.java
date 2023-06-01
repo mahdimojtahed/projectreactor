@@ -1,4 +1,4 @@
-package com.dotin.projectreactor.publishers;
+package com.dotin.projectreactor.dotin_class.publishers;
 
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
